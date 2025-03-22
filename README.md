@@ -2,7 +2,7 @@
 
 # 边狱公司橙子Mod
 
-**简体中文** | [English](./.github/EN_README.md) 
+**简体中文** | [English](./doc/EN_README.md) 
 </div>
 
 # 功能
