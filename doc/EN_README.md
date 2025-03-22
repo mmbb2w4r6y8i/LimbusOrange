@@ -1,6 +1,6 @@
 # Limbus Company Orange Mod
 
-**Simplified Chinese** | [English](./.github/EN_README.md) 
+[Simplified Chinese](../README.md) | **English**
 
 ## Features
 - Modify the time speed during battles.

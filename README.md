@@ -1,7 +1,6 @@
 <div align="center">
 
 # 边狱公司橙子Mod
-Limbus Orange Mod
 
 **简体中文** | [English](./.github/EN_README.md) 
 </div>
